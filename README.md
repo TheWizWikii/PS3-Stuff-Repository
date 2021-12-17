@@ -1,1 +1,1 @@
-# PS3-Hombrew-Repository
+# PS3 Apps & Hombrew Repository
