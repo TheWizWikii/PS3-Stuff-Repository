@@ -2,7 +2,8 @@
 
 ### Firmwares
 ### Hombrew y Emuladores
-### PORTS
-### RETRO
+### Ports
+### Retro
 
-- Creditos a todos los desarrolladores de las herramientas
+
+Creditos a todos los desarrolladores de las herramientas
