@@ -1,12 +1,8 @@
-# PS3 Stuff Repository
+# Colección de descargas para PS3 con fines de Backup
 
-### HOMBREW
-
-- multiMAN
-
+### Firmwares
+### HOMBREW y Emuladores
 ### PORTS
-
-- Mario 64 V2 Port
-
 ### RETRO
 
+## Creditos a todos los desarrolladores de las herramientas
